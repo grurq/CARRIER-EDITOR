@@ -34,7 +34,7 @@ XXYY|
 ZZZZZZZZZZZ
 ZZZZZZZZZZZ
 ZZZZZZZZZZZ
-...ZZZZZZZZZ|
+..ZZZZZZZZZ|
 ```
 という構造で記述されています。  
 XXが横幅、YYが縦幅、Zがタイルデータです。  
