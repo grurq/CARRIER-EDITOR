@@ -1,6 +1,6 @@
 ### CARRIER-EDITOR
 ([grurqApps](https://grurq.github.io/) 最終更新:2021-04-18)  
-pythonによる簡易パズルゲームです[CARRIER](https://github.com/grurq/CARRIER)の面エディタです。  
+pythonによる簡易パズルゲーム[CARRIER](https://github.com/grurq/CARRIER)の面エディタです。  
 作った面.datlevelは結合してステージファイル.crにすることができ、実際に遊ぶことができます。  
 ### 使い方
 起動時にファイル結合をするかどうか訊かれます。  
